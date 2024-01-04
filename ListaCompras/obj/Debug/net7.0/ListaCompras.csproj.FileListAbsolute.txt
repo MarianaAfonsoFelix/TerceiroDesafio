@@ -1,0 +1,15 @@
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\bin\Debug\net7.0\ListaCompras.exe
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\bin\Debug\net7.0\ListaCompras.deps.json
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\bin\Debug\net7.0\ListaCompras.runtimeconfig.json
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\bin\Debug\net7.0\ListaCompras.dll
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\bin\Debug\net7.0\ListaCompras.pdb
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.csproj.AssemblyReference.cache
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.AssemblyInfoInputs.cache
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.AssemblyInfo.cs
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.csproj.CoreCompileInputs.cache
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.dll
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\refint\ListaCompras.dll
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.pdb
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ListaCompras.genruntimeconfig.cache
+C:\EstudoCSharp\3\TerceiroDesafio\ListaCompras\obj\Debug\net7.0\ref\ListaCompras.dll
