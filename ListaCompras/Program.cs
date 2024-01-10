@@ -10,26 +10,37 @@ Console.WriteLine("Vamos começar a adicionar itens a sua lista:");
 
 List<string> listaCompra = new List<string>();
 
-var continuidadeProcesso = 0;
-Console.WriteLine("Digite o item a ser adicionado, ao finalizar digite N para encerrar:");
-
-while(continuidadeProcesso == 0)
+while(true)
 {
-    
-    var produto = "N";
-    produto = Console.ReadLine();
+    Console.WriteLine("\nEscolha uma opção:");
+    Console.WriteLine("1. Adicionar item a lista");
+    Console.WriteLine("2. Exibir lista de compras");
+    Console.WriteLine("3. Sair");
 
-    if(produto == "N")
-        continuidadeProcesso = 1;
-    else
-        listaCompra.Add(produto);
+     string solicitacao = Console.ReadLine();
 
+      switch (solicitacao)
+      {
+        case "1":
+            Console.Write("Digite o item a ser adicionado: ");
+            string novoItem = Console.ReadLine();
+            listaCompra.Add(novoItem);
+            Console.WriteLine("Item adicionado à lista!");
+            break;
+        case "2":
+            Console.WriteLine(nome);
+            Console.WriteLine("\n Sua Lista de Compras:");
+            foreach (string item in listaCompra)
+            {
+                Console.WriteLine("- " + item);
+            }
+            break;
+        case "3":
+            Console.WriteLine("Saindo da sua lista de compras. Até logo!");
+            return;
+
+        default:
+            Console.WriteLine("Opção inválida. Tente novamente.");
+            break;
+      }
 }
-
-Console.WriteLine(nome);
-Console.WriteLine("Não esqueça de passar no mercado e comprar:");
-foreach(var compra in listaCompra)
-{
-    Console.WriteLine(compra);
-}
-

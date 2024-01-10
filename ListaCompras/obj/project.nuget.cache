@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23nb4aoEff3M/z+NODqCBQTDgp24YMkkyPl4Y1SWYTBJVeIYxHxf08gR2tJ5dN9xSRE0WpZ/uWpQxjMhUTR0dw==",
+  "dgSpecHash": "Yf4k66RE9VDhfWFDw5CJlQu4cw8d7ibHnMuslxie2+P8cNCw60A3ysfya/xF/prsY/G9EAMsjBg0Y19wd9L/ZA==",
   "success": true,
-  "projectFilePath": "C:\\EstudoCSharp\\3\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
+  "projectFilePath": "C:\\EstudoCSharp\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

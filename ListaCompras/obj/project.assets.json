@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudoCSharp\\3\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
+      "projectUniqueName": "C:\\EstudoCSharp\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
       "projectName": "ListaCompras",
-      "projectPath": "C:\\EstudoCSharp\\3\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
+      "projectPath": "C:\\EstudoCSharp\\TerceiroDesafio\\ListaCompras\\ListaCompras.csproj",
       "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudoCSharp\\3\\TerceiroDesafio\\ListaCompras\\obj\\",
+      "outputPath": "C:\\EstudoCSharp\\TerceiroDesafio\\ListaCompras\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
